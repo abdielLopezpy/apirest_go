@@ -75,7 +75,7 @@ Respuesta:
 - Formato: JSON
 - Códigos de estado:
   - 200 OK: Se ha actualizado el ítem correctamente.
-Copy code
+
 ## Operación: Eliminar ítem por ID
 
 Método: DELETE
